@@ -5,8 +5,8 @@
 }
 
 #landing {
-    background: url('https://lh5.googleusercontent.com/A-cX68vmwUgpoHAYkwybd8dTxxGThR0ucbrubPCUvRv37Us8byLDkOl8LVCA0FMWyIvIuxyD_A9ESuxG9A6b=w1600-h757-rw') no-repeat top center fixed;
-    background-size: cover;
+    /* background: url('https://lh5.googleusercontent.com/A-cX68vmwUgpoHAYkwybd8dTxxGThR0ucbrubPCUvRv37Us8byLDkOl8LVCA0FMWyIvIuxyD_A9ESuxG9A6b=w1600-h757-rw') no-repeat top center fixed; */
+    /* background-size: cover; */
     width: 100%;
     height: 100vh;
     display: flex;
